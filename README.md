@@ -15,6 +15,13 @@ Este repositorio gestiona:
 - Workflows de GitHub Actions
 - Configuraciones globales
 
+## 📚 Documentación
+
+- [Filosofía de Desarrollo](PHILOSOPHY.md)
+- [Guía de Contribución](CONTRIBUTING.md)
+- [Código de Conducta](CODE_OF_CONDUCT.md)
+- [Licencia](LICENSE)
+
 ## 📝 Mantenimiento
 
 Para actualizar el perfil de la organización, modifica el archivo `/profile/README.md`.
